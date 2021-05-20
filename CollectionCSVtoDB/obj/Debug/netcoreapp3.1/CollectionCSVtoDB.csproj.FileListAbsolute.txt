@@ -1,0 +1,13 @@
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.exe
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.deps.json
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.runtimeconfig.json
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.runtimeconfig.dev.json
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.dll
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\bin\Debug\netcoreapp3.1\CollectionCSVtoDB.pdb
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.csprojAssemblyReference.cache
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.AssemblyInfoInputs.cache
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.AssemblyInfo.cs
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.csproj.CoreCompileInputs.cache
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.dll
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.pdb
+C:\Users\aidanLaptop\source\repos\CollectionCSVtoDB\CollectionCSVtoDB\obj\Debug\netcoreapp3.1\CollectionCSVtoDB.genruntimeconfig.cache
